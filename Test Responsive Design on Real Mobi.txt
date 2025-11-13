@@ -1,0 +1,8 @@
+Test Responsive Design on Real Mobile Device.
+
+1. Laptop/PC and Mobile device should be on same network.
+2. Get ip of your computer.
+	1. open CMD and give command ipconfig
+	2.  IPv4 Address 
+3. On your mobile device open browser and write this address
+	http://192.168.63.254:5500
