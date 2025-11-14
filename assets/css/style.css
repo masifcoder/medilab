@@ -30,6 +30,10 @@
     height: 100%;
 }
 
-.blue-card {
-    /* padding: 40px !important; */
+.stat-icon{
+    height: 46px;
+    width: 46px;
+    position: absolute;
+    left: calc(50% - 23px);
+    top: -23px;
 }
